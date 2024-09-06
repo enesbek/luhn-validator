@@ -1,5 +1,5 @@
 {
-  "name": "luhn-validator",
+  "name": "luhn-validate",
   "version": "1.0.0",
   "description": "A simple Luhn algorithm validator for credit card numbers and other identifiers.",
   "main": "index.js",
