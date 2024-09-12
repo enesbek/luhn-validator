@@ -37,4 +37,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-[Your Name]
+Enes Bek
